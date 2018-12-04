@@ -1,0 +1,5 @@
+﻿  408.c
+c:\users\82106\desktop\c concert\10mungayal\10mungayal\408.c(18): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82106\desktop\c concert\10mungayal\10mungayal\408.c(20): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82106\desktop\c concert\10mungayal\10mungayal\408.c(28): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  10Mungayal.vcxproj -> C:\Users\82106\Desktop\c concert\10Mungayal\Debug\10Mungayal.exe

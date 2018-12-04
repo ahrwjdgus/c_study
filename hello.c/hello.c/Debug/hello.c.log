@@ -1,0 +1,4 @@
+﻿  159.c
+c:\users\82106\desktop\c concert\hello.c\hello.c\159.c(13): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82106\desktop\c concert\hello.c\hello.c\159.c(7): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  hello.c.vcxproj -> C:\Users\82106\Desktop\c concert\hello.c\Debug\hello.c.exe
